@@ -1,1 +1,1 @@
-# Personality-analyser
+# Personality test
